@@ -34,6 +34,7 @@
                 <param name="ios-package" value="Adyen" />
             </feature>
         </config-file>
+		 <source-file src="src/ios/Adyen-Bridging-header.h" />
         <source-file src="src/ios/Adyen.swift" />
 		<source-file src="src/ios/Configuration.swift" />
 		<source-file src="src/ios/DropInExample.swift" />
